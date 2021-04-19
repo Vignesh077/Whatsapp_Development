@@ -6,5 +6,3 @@ Author:Vignesh
 2.Chat code
 3.attachment code
 4.hiding last seen
-5.videofeature code
-6.Audio feature code
