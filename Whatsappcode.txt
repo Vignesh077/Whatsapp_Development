@@ -6,5 +6,3 @@ Author:Vignesh
 2.Chat code
 3.attachment code
 4.hiding last seen
-5.Recording feature
-6.record hd working  fine added
