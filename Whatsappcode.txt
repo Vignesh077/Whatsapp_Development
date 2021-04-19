@@ -8,3 +8,4 @@ Author:Vignesh
 4.hiding last seen
 5.videofeature code
 6.Audio feature code
+7.Video in HD
